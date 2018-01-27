@@ -1,0 +1,15 @@
+---
+title: "readme"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Это описание проекта. Проба пера
+
+```{r cars}
+#Будем пытаться работать с Shiny.
+```
+
+"first commit"
